@@ -1,0 +1,6 @@
+D:\Work\poplauWIN7\52MessageServer\GitHub\MessageServer\Careysoft.Dotnet.Server.MessageServer.Host\Careysoft.Dotnet.Server.MessageServer.Host\bin\Debug\Careysoft.Dotnet.Server.MessageServer.Host.exe.config
+D:\Work\poplauWIN7\52MessageServer\GitHub\MessageServer\Careysoft.Dotnet.Server.MessageServer.Host\Careysoft.Dotnet.Server.MessageServer.Host\bin\Debug\Careysoft.Dotnet.Server.MessageServer.Host.exe
+D:\Work\poplauWIN7\52MessageServer\GitHub\MessageServer\Careysoft.Dotnet.Server.MessageServer.Host\Careysoft.Dotnet.Server.MessageServer.Host\bin\Debug\Careysoft.Dotnet.Server.MessageServer.Host.pdb
+D:\Work\poplauWIN7\52MessageServer\GitHub\MessageServer\Careysoft.Dotnet.Server.MessageServer.Host\Careysoft.Dotnet.Server.MessageServer.Host\obj\x86\Debug\Careysoft.Dotnet.Server.MessageServer.Host.exe
+D:\Work\poplauWIN7\52MessageServer\GitHub\MessageServer\Careysoft.Dotnet.Server.MessageServer.Host\Careysoft.Dotnet.Server.MessageServer.Host\obj\x86\Debug\Careysoft.Dotnet.Server.MessageServer.Host.pdb
+D:\Work\poplauWIN7\52MessageServer\GitHub\MessageServer\Careysoft.Dotnet.Server.MessageServer.Host\Careysoft.Dotnet.Server.MessageServer.Host\obj\x86\Debug\Careysoft.Dotnet.Server.MessageServer.Host.csprojResolveAssemblyReference.cache
