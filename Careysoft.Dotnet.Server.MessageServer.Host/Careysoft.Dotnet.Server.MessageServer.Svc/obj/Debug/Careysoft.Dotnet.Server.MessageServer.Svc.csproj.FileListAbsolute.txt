@@ -1,0 +1,6 @@
+D:\Work\poplauWIN7\52MessageServer\GitHub\MessageServer\Careysoft.Dotnet.Server.MessageServer.Host\Careysoft.Dotnet.Server.MessageServer.Host\bin\Debug\Careysoft.Dotnet.Server.MessageServer.Svc.pdb
+D:\Work\poplauWIN7\52MessageServer\GitHub\MessageServer\Careysoft.Dotnet.Server.MessageServer.Host\Careysoft.Dotnet.Server.MessageServer.Svc\obj\Debug\Careysoft.Dotnet.Server.MessageServer.Svc.csprojResolveAssemblyReference.cache
+D:\Work\poplauWIN7\52MessageServer\GitHub\MessageServer\Careysoft.Dotnet.Server.MessageServer.Host\Careysoft.Dotnet.Server.MessageServer.Svc\obj\Debug\Careysoft.Dotnet.Server.MessageServer.Svc.pdb
+D:\Work\poplauWIN7\52MessageServer\GitHub\MessageServer\Careysoft.Dotnet.Server.MessageServer.Host\Careysoft.Dotnet.Server.MessageServer.Host\bin\Debug\Careysoft.Dotnet.Server.MessageServer.Svc.exe.config
+D:\Work\poplauWIN7\52MessageServer\GitHub\MessageServer\Careysoft.Dotnet.Server.MessageServer.Host\Careysoft.Dotnet.Server.MessageServer.Host\bin\Debug\Careysoft.Dotnet.Server.MessageServer.Svc.exe
+D:\Work\poplauWIN7\52MessageServer\GitHub\MessageServer\Careysoft.Dotnet.Server.MessageServer.Host\Careysoft.Dotnet.Server.MessageServer.Svc\obj\Debug\Careysoft.Dotnet.Server.MessageServer.Svc.exe

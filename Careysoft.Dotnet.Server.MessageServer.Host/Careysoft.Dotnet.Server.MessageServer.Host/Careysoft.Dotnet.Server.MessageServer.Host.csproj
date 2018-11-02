@@ -11,7 +11,8 @@
     <RootNamespace>Careysoft.Dotnet.Server.MessageServer.Host</RootNamespace>
     <AssemblyName>Careysoft.Dotnet.Server.MessageServer.Host</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
-    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
@@ -34,11 +35,32 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="log4net">
+      <HintPath>..\..\..\..\..\..\公共安装\28socket\SuperWebSocket\SuperWebSocket(0.7).Binaries\Net40\Debug\log4net.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=4.0.5.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\公共安装\16json\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="SuperSocket.Common">
+      <HintPath>..\..\..\..\..\..\公共安装\28socket\SuperWebSocket\SuperWebSocket(0.7).Binaries\Net40\Debug\SuperSocket.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="SuperSocket.Facility">
+      <HintPath>..\..\..\..\..\..\公共安装\28socket\SuperWebSocket\SuperWebSocket(0.7).Binaries\Net40\Debug\SuperSocket.Facility.dll</HintPath>
+    </Reference>
+    <Reference Include="SuperSocket.SocketBase">
+      <HintPath>..\..\..\..\..\..\公共安装\28socket\SuperWebSocket\SuperWebSocket(0.7).Binaries\Net40\Debug\SuperSocket.SocketBase.dll</HintPath>
+    </Reference>
+    <Reference Include="SuperSocket.SocketEngine">
+      <HintPath>..\..\..\..\..\..\公共安装\28socket\SuperWebSocket\SuperWebSocket(0.7).Binaries\Net40\Debug\SuperSocket.SocketEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="SuperWebSocket">
+      <HintPath>..\..\..\..\..\..\公共安装\28socket\SuperWebSocket\SuperWebSocket(0.7).Binaries\Net40\Debug\SuperWebSocket.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
-    <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
   </ItemGroup>
@@ -52,6 +74,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Careysoft.Dotnet.Server.MessageServer.Model\Careysoft.Dotnet.Server.MessageServer.Model.csproj">
+      <Project>{DAB6535A-8049-43BE-8384-D1A2C968D1F1}</Project>
+      <Name>Careysoft.Dotnet.Server.MessageServer.Model</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Careysoft.Dotnet.Server.MessageServer.Server\Careysoft.Dotnet.Server.MessageServer.Server.csproj">
       <Project>{67355699-B2EC-42B5-9B3D-6C2451742F09}</Project>
       <Name>Careysoft.Dotnet.Server.MessageServer.Server</Name>

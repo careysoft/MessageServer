@@ -8,8 +8,8 @@
     <ProjectGuid>{DAB6535A-8049-43BE-8384-D1A2C968D1F1}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Careysoft.Dotnet.Server.Model</RootNamespace>
-    <AssemblyName>Careysoft.Dotnet.Server.Model</AssemblyName>
+    <RootNamespace>Careysoft.Dotnet.Server.MessageServer.Model</RootNamespace>
+    <AssemblyName>Careysoft.Dotnet.Server.MessageServer.Model</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -40,8 +40,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AuthModel.cs" />
-    <Compile Include="MsgRequestModel.cs" />
+    <Compile Include="ClientModel.cs" />
+    <Compile Include="EnumType.cs" />
+    <Compile Include="EventMessageServerHandler.cs" />
+    <Compile Include="MessageBodyModel.cs" />
+    <Compile Include="MessageModel.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
